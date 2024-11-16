@@ -75,6 +75,8 @@ endif;
     <?= $this->fetch('script') ?>
 </head>
 <body>
-    piyush vijay
+    <p>piyush</p>
+    <h1>header</h1>
+    <div>login</div>
 </body>
 </html>
